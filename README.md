@@ -34,9 +34,11 @@ Using a sample dataset, I practiced the following with pandas:
 - **pandas**: For data manipulation and analysis
 - **Python**: Core programming language
 
-- ## 🚀 How to Run
+## 📬 Contact
 
-1. Open the `.ipynb` file in **Google Colab**
-2. Step through each code block to see how a DataFrame is created and used
-3. Upload your own CSV file to try the same steps with new data
+Let’s connect or collaborate:  
+[LinkedIn](https://linkedin.com/in/dannyokeefedatatechnician) • [GitHub](https://github.com/dannyokeefe)
 
+---
+**Created by:** *Danny O'Keefe*  
+**Date:** May 2025*  
